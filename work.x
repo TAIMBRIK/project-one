@@ -1,3 +1,3 @@
 create page home
-create page setting
+
 
