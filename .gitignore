@@ -1,0 +1,5 @@
+task1
+task2.txt
+*.exe
+!imp.exe
+node/
