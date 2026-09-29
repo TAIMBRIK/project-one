@@ -1,8 +1,6 @@
 create page home
 create page video
-cteate maro
-taim 
-break
 create dashbord
-creat page login 
-origin/main
+creat page login
+create page forget pass 
+
